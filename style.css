@@ -1,17 +1,18 @@
 #main-doc{
     width: 80%;
     float: right;
-    
+    display: block;
 }
 
 #navbar{
-    float: left    ;
-    position: fixed;
+    float: left;
+    position: relative;
     text-align: center;
+    display: block;
   
 }
 header{
-    font-size: 30px;
+    font-size: 25px;
 }
 a{
     font-size: 14px;
