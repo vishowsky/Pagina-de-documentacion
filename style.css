@@ -1,0 +1,19 @@
+#main-doc{
+    width: 80%;
+    float: right;
+    
+}
+
+#navbar{
+    float: left    ;
+    position: fixed;
+    text-align: center;
+  
+}
+header{
+    font-size: 30px;
+}
+a{
+    font-size: 14px;
+}
+@media (min-width: 1024px) { }
