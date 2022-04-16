@@ -1,20 +1,15 @@
-#main-doc{
-    width: 80%;
-    float: right;
-    display: block;
-}
-
 #navbar{
+    position: fixed;
+    scroll-behavior: auto;
+    height: 100vh;
+    width: 30vw;
     float: left;
-    position: relative;
-    text-align: center;
-    display: block;
-  
 }
-header{
-    font-size: 25px;
+#cuerpo-pagina{
+    display: flex;
+align-items: stretch;
 }
-a{
-    font-size: 14px;
+#div-main{
+    margin-left:260px;
+    float: right;
 }
-@media (min-width: 1024px) { }
